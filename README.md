@@ -1,6 +1,6 @@
 **Digital Signal Processing**
 
-This repository includes all the tasks performed in my lab for the course Digital Signal Processing. Currently labs 6 and 7 are missing, I suspect I solved the tasks on a PC in the lab and forgot to copy them. If I find them or happen to have enough motivation to attempt them, I will upload them soon afterward.
+This repository includes all the tasks performed in my lab for the course Digital Signal Processing. Currently labs 6 and 7 are missing, I suspect I solved the tasks on a PC in the lab and forgot to copy them. If I find those or happen to have enough motivation to attempt those once, I will upload those soon afterward.
 
 Content:
 1. The effects of Sampling in Discrete Time Signals
